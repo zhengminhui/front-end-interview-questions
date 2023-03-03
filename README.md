@@ -16,12 +16,12 @@ This project has two sections: one for algorithm problems and the other for fron
 
 Algorithms:
 
-- [Find if target sum in a binary search tree]()
-- [Print all the combinations, each items in one combination should be a sub palindrome string]()
+- [Find if target sum in a binary search tree](https://github.com/zhengminhui/front-end-interview-questions/blob/main/algorithm/635_findTarget.js)
+- [Print all the combinations, each items in one combination should be a sub palindrome string](https://github.com/zhengminhui/front-end-interview-questions/blob/main/algorithm/131_palindrome-partitioning.js)
 
 Front-end:
 
-- [parallel scheduler with promises]()
+- [parallel scheduler with promises](https://github.com/zhengminhui/front-end-interview-questions/tree/main/frontend/paralell-scheduler)
 - [simple infinite scroll component]()
 
 ## 🤝 Contribution
