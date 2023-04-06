@@ -1,0 +1,38 @@
+.container {
+  position: relative;
+  width: 200px;
+  height: 400px;
+  margin: 0 auto;
+  border: 1px solid darkgray;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  height: 100%;
+  overflow-y: auto;
+  margin: 0 8px;
+}
+
+.banner,
+.footer {
+  width: 100%;
+  height: 30px;
+  background-color: lavender;
+  display: flex;
+  align-items: center;
+  color: #5a5a5a;
+}
+
+.card {
+  height: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid teal;
+  margin-bottom: 12px;
+}
+
+.card:first-child {
+  margin-top: 8px;
+}
